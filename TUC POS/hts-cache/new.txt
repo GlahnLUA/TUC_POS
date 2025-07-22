@@ -1,8 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-20:24:44	992/992	---MCZ	200	added ('OK')	text/html	date:Tue,%2022%20Jul%202025%2000:24:44%20GMT	https://whpos.net/app	C:/My%20Web%20Sites/TUC%20POS/whpos.net/app.html	(from )
-20:24:46	992/992	---MCZ	200	added ('OK')	text/html	date:Tue,%2022%20Jul%202025%2000:24:46%20GMT	https://whpos.net/app/019608bf-9bf9-76e1-bf86-1b53d3c5bd77/calculator	C:/My%20Web%20Sites/TUC%20POS/whpos.net/app/019608bf-9bf9-76e1-bf86-1b53d3c5bd77/calculator.html	(from )
-20:24:46	652/652	---MCZ	200	added ('OK')	text/html	date:Tue,%2022%20Jul%202025%2000:24:46%20GMT	https://whpos.net/robots.txt		(from )
-20:24:46	4769/4769	---M--	200	added ('OK')	image/png	etag:%22449ae6cc3e198a3e85631c67cb91f15b%22	https://whpos.net/favicon.png	C:/My%20Web%20Sites/TUC%20POS/whpos.net/favicon.png	(from https://whpos.net/app)
-20:24:47	91982/91982	---MCZ	200	added ('OK')	text/css	etag:W/%2206e15f5fa85f06d5369a1d1fb5c2b3ea%22	https://whpos.net/assets/index-DKGgjXJ9.css	C:/My%20Web%20Sites/TUC%20POS/whpos.net/assets/index-DKGgjXJ9.css	(from https://whpos.net/app)
-20:25:00	4790787/4790787	---MCZ	200	added ('OK')	application/javascript	etag:W/%22e1823ee0d8d0b8b9da45fd6c868e9198%22	https://whpos.net/assets/index-cT4tazwA.js	C:/My%20Web%20Sites/TUC%20POS/whpos.net/assets/index-cT4tazwA.js	(from https://whpos.net/app)
-20:25:00	2677297/2677297	---M--	200	added ('OK')	image/jpeg	date:Fri,%2011%20Jul%202025%2019:58:20%20GMT	https://images.pexels.com/photos/1169754/pexels-photo-1169754.jpeg	C:/My%20Web%20Sites/TUC%20POS/images.pexels.com/photos/1169754/pexels-photo-1169754.jpg	(from https://whpos.net/assets/index-DKGgjXJ9.css)
